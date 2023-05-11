@@ -10,11 +10,9 @@
   },
   "devDependencies": {
     "@types/node": "^18",
-    "nuxt": "^3.4.3"
-  },
-  "dependencies": {
+    "nuxt": "^3.4.3",
     "@picocss/pico": "^1.5.10",
     "prettier": "^2.8.8",
-    "vue-toastification": "^1.7.14"
+    "vue": "^3.3.1"
   }
 }
